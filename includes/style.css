@@ -1,0 +1,14 @@
+header > h1 
+{
+    border-bottom: 1px dashed black;
+    font-style: italic;
+    font-size: x-large;
+    color:red;
+}
+
+footer > p 
+{
+    border-top: 1px dashed black;
+    font-style: italic;
+    color:red;
+}
